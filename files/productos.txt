@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "nombre": "Queso",
+    "tiemstamp": 1669144170574,
+    "descripcion": "Queso chedar",
+    "codigo": "FF001",
+    "foto": "https://cdn1.iconfinder.com/data/icons/vegan-flat/340/healthy_food_onion_ingredient_vegetable_organic_vegetarian_vegan-64.png",
+    "precio": "$ 250",
+    "stock": "12 kgs"
+  },
+  {
+    "id": 2,
+    "nombre": "Yerba",
+    "tiemstamp": 1669144538997,
+    "descripcion": "Yerba mate",
+    "codigo": "AAA33",
+    "foto": "https://cdn1.iconfinder.com/data/icons/weather-and-disaster-flat/340/landslide_danger_damage_nature_disaster_rock_earthquake_mountain_stone_land_landslip-64.png",
+    "precio": "120",
+    "stock": "100 kgs"
+  },
+  {
+    "id": "3",
+    "nombre": "Cafe Colombia",
+    "tiemstamp": 1669144621808,
+    "descripcion": "Cafe colombiano",
+    "codigo": "AAA33",
+    "foto": "https://cdn1.iconfinder.com/data/icons/hobbies-flat-1/340/bakery_food_wheat_baker_homemade_Rolling_pin_hobby-64.png",
+    "precio": "200",
+    "stock": "200 kgs"
+  },
+  {
+    "nombre": "Arroz",
+    "precio": 50,
+    "stock": 100,
+    "foto": "imagen_02.jpg",
+    "id": 4
+  }
+]

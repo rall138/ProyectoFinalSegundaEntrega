@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Carro de prueba",
+    "timestamp": 1669144670008,
+    "productos": [
+      {
+        "id": "3",
+        "nombre": "Cafe Colombia",
+        "codigo": "AAA33"
+      },
+      {
+        "id": "1",
+        "nombre": "Queso",
+        "codigo": "FF001"
+      },
+      {
+        "id": "2",
+        "nombre": "Yerba",
+        "codigo": "AAA33"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "nombre": "Carro nuevo",
+    "timestamp": 1669378502238,
+    "productos": [],
+    "id": 2
+  }
+]
